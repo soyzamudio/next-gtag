@@ -1,6 +1,6 @@
 {
   "name": "@soyzamudio/next-gtag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Google Tag (gtag.js) and Google Tag Manager hooks for Next.js applications",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
